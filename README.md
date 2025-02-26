@@ -77,11 +77,12 @@ I am a passionate Software Engineer with experience in building web applications
 
 ### Profile Views
 
-<!-- <div align="center">
-  <img src="https://profile-counter.glitch.me/srinathu0/count.svg?"  />
-</div> -->
 <div align="center">
-  <img src="https://count.getloli.com/get/@srinathu0?theme=rule34" alt="Profile Views" />
+  <picture>
+    <source srcset="https://count.getloli.com/get/@srinathu0?theme=moebooru" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://count.getloli.com/get/@srinathu0?theme=rule34" media="(prefers-color-scheme: light)" />
+    <img src="https://count.getloli.com/get/@srinathu0?theme=rule34" alt="Profile Views" />
+  </picture>
 </div>
 
 ---
@@ -89,9 +90,51 @@ I am a passionate Software Engineer with experience in building web applications
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srinathu0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinathu0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=srinathu0&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=srinathu0&theme=default&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinathu0&radius=16&theme=github-compact&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api?username=srinathu0&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=srinathu0&theme=light&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" media="(prefers-color-scheme: light)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=srinathu0&theme=light&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="400px" height="170px" alt="GitHub Stats" />
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=srinathu0&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=srinathu0&layout=compact&theme=light&hide_border=true" media="(prefers-color-scheme: light)" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=srinathu0&layout=compact&theme=light&hide_border=true" width="400px" height="170px" alt="Top Languages" />
+        </picture>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <picture>
+          <source srcset="https://streak-stats.demolab.com?user=srinathu0&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://streak-stats.demolab.com?user=srinathu0&theme=light&hide_border=true" media="(prefers-color-scheme: light)" />
+          <img src="https://streak-stats.demolab.com?user=srinathu0&theme=light&hide_border=true" width="815px" height="170px" alt="GitHub Streak" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### GitHub Achievements & Activity
+
+<div align="center">
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=srinathu0&theme=darkhub&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=srinathu0&theme=flat&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=srinathu0&theme=flat&column=-1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" width="800px" alt="GitHub Trophies" />
+  </picture>
+
+  <br>
+  <br>
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=srinathu0&theme=github-dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=srinathu0&theme=github-light" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinathu0&theme=github-light" width="800px" alt="GitHub Activity Graph" />
+  </picture>
 </div>
